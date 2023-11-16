@@ -16,3 +16,5 @@ for letter in chosen_word:
     else:
         print("Wrong")
 
+
+
